@@ -1,0 +1,21 @@
+﻿  Lab_mudle07.cpp
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(10): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(10): error C2238: непредвиденные лексемы перед ";"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(13): error C2061: синтаксическая ошибка: идентификатор "Container"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(13): error C2535: Base::Base(std::string): функция-член уже определена или объявлена
+  c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(12): note:  см. объявление "Base::Base"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(17): error C2061: синтаксическая ошибка: идентификатор "Container"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(21): error C2086: std::string Base::name: переопределение
+  c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(11): note:  см. объявление "Base::name"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(18): error C2065: prev_sp: необъявленный идентификатор
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(28): error C2061: синтаксическая ошибка: идентификатор "Container"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(28): error C2084: функция "Base::Base(std::string)" уже имеет текст реализации
+  c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(25): note: см. предыдущее определение "{ctor}"
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(29): error C2065: prev_ini: необъявленный идентификатор
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(91): error C2264: Base::Base: ошибка в определении или объявлении функции; функция не вызвана
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(106): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(113): error C2661: Base::Base: нет перегруженной функции, принимающей 2 аргументов
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(114): error C2264: Base::Base: ошибка в определении или объявлении функции; функция не вызвана
+c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(122): error C2660: Base::setPrev: функция не принимает 1 аргументов
+  c:\users\yacov\source\repos\studentcpp\lab_mudle07\lab_mudle07\lab_mudle07.cpp(17): note:  см. объявление "Base::setPrev"

@@ -26,3 +26,11 @@
 *.exe
 *.out
 *.app
+
+Lab01/\.vs/
+
+Lab01/Debug/
+
+Lab01/Calculyator3/Debug/
+
+*.user

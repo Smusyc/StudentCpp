@@ -1,0 +1,20 @@
+﻿  Lab02.cpp
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(98): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(150): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(177): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(228): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(255): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(338): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(487): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(500): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(503): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(558): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(566): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(570): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(574): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(582): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(590): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(598): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\yacov\source\repos\studentcpp\lab02\lab02\lab02.cpp(634): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab02.vcxproj -> C:\Users\yacov\source\repos\StudentCpp\Lab02\Debug\Lab02.exe

@@ -1,0 +1,25 @@
+﻿  Lab3.cpp
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(220): warning C4101: number: неиспользованная локальная переменная
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(414): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(416): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(428): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(434): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(440): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(445): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(457): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(467): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(470): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(482): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(489): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(498): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(505): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(509): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(513): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(654): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(654): warning C4101: k: неиспользованная локальная переменная
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(654): warning C4101: Final_elem_Val: неиспользованная локальная переменная
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(678): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(1061): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(1063): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\yacov\source\repos\studentcpp\lab3\lab3\lab3.cpp(1182): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab3.vcxproj -> C:\Users\yacov\source\repos\StudentCpp\Lab3\x64\Debug\Lab3.exe

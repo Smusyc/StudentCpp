@@ -1,0 +1,10 @@
+﻿  Cursach.cpp
+c:\users\yacov\source\repos\studentcpp\cursach\cursach\cursach.cpp(170): warning C4101: border: неиспользованная локальная переменная
+  c:\users\yacov\source\repos\studentcpp\cursach\cursach\cursach.cpp(169): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\yacov\source\repos\studentcpp\cursach\cursach\cursach.cpp(319): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Dictionary<std::string,std::string>::TranslateK(TK,bool)"
+          with
+          [
+              TK=std::string
+          ]
+  c:\users\yacov\source\repos\studentcpp\cursach\cursach\cursach.cpp(385): note: выполняется компиляция ссылки на экземпляр шаблон класс "Dictionary<std::string,std::string>"
+  Cursach.vcxproj -> C:\Users\yacov\source\repos\StudentCpp\Cursach\Debug\Cursach.exe
