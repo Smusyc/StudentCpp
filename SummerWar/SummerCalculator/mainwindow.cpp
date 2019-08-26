@@ -2917,6 +2917,8 @@ void MainWindow::on_zeroB_clicked()
 
 void MainWindow::on_recipB_clicked()
 {
+    if(!((isdigit(expr[expr.size()-1])||isalpha(expr[expr.size()-1])||(expr[expr.size()-1]=='P')||(expr[expr.size()-1]=='e')||(expr[expr.size()-1]=='i')||(expr[expr.size()-1]=='!')||(expr[expr.size()-1]==')')))){
+}else{
     if(oper_calls.size()==0){
         tick_for_calls=1;
     }
@@ -2970,6 +2972,7 @@ void MainWindow::on_recipB_clicked()
     tick_for_count=operators_count.size();
     ui->exprText->setText(formatted());
     ui->result->setText(result_of_expr(expr));
+    }
 }
 
 void MainWindow::on_multB_clicked()
@@ -4058,7 +4061,7 @@ void MainWindow::on_lnB_clicked()
 void MainWindow::on_powtwoB_clicked()
 {
     if(expr.size()!=0){
-    if(expr.size()==0&&!isdigit(expr[expr.size()-1])&&!isalpha(expr[expr.size()-1])&&(expr[expr.size()-1]!='P')&&(expr[expr.size()-1]!='e')&&(expr[expr.size()-1]!='i')&&(expr[expr.size()-1]!='!')){
+        if(!((isdigit(expr[expr.size()-1])||isalpha(expr[expr.size()-1])||(expr[expr.size()-1]=='P')||(expr[expr.size()-1]=='e')||(expr[expr.size()-1]=='i')||(expr[expr.size()-1]=='!')||(expr[expr.size()-1]==')')))){
 
     }else{
         if(oper_calls.size()==0){
@@ -4120,7 +4123,7 @@ void MainWindow::on_powtwoB_clicked()
 void MainWindow::on_powB_clicked()
 {
     if(expr.size()!=0){
-    if(expr.size()==0&&!isdigit(expr[expr.size()-1])&&!isalpha(expr[expr.size()-1])&&(expr[expr.size()-1]!='P')&&(expr[expr.size()-1]!='e')&&(expr[expr.size()-1]!='i')&&(expr[expr.size()-1]!='!')){
+        if(!((isdigit(expr[expr.size()-1])||isalpha(expr[expr.size()-1])||(expr[expr.size()-1]=='P')||(expr[expr.size()-1]=='e')||(expr[expr.size()-1]=='i')||(expr[expr.size()-1]=='!')||(expr[expr.size()-1]==')')))){
 
     }else{
         if(oper_calls.size()==0){
@@ -4182,7 +4185,7 @@ void MainWindow::on_powB_clicked()
 void MainWindow::on_radicaltwoB_clicked()
 {
     if(expr.size()!=0){
-    if((!isdigit(expr[expr.size()-1])&&!isalpha(expr[expr.size()-1])&&(expr[expr.size()-1]!='P')&&(expr[expr.size()-1]!='e')&&(expr[expr.size()-1]!='i')&&(expr[expr.size()-1]!='!')&&(expr[expr.size()-1]!=')'))){
+    if((isdigit(expr[expr.size()-1])||isalpha(expr[expr.size()-1])||(expr[expr.size()-1]=='P')||(expr[expr.size()-1]=='e')||(expr[expr.size()-1]=='i')||(expr[expr.size()-1]=='!')||(expr[expr.size()-1]==')'))){
 
     }else{
         if(equal_cicked){
@@ -4297,6 +4300,7 @@ void MainWindow::on_radicaltwoB_clicked()
         ui->exprText->setText(formatted());
         ui->result->setText(result_of_expr(expr));
     }
+
 }
 
 void MainWindow::on_radicalB_clicked()
