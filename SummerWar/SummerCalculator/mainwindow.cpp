@@ -4445,6 +4445,11 @@ void MainWindow::on_equalB_clicked()
 {
     if((ui->result->text())!="Неправильный аргумент факториала"&&(ui->result->text())!="Неправильный арумент логарифма"&&(ui->result->text())!= "Деление на ноль"&&(ui->result->text())!="Несогласованные скобки"&&(ui->result->text())!="Ошибка в записи операций"&&!equal_cicked){
     expr=(ui->result->text()).toStdString();
+        if(tick_for_calls<oper_calls.size()){
+            for(int l=oper_calls.size();l>tick_for_calls;--l){
+                oper_calls.erase(oper_calls.begin()+oper_calls.size()-1);
+            }
+        }
     oper_calls.push_back(expr+"W");
     ui->exprText->setText(formatted());
      ui->result->setText("");
@@ -4460,6 +4465,7 @@ void MainWindow::on_Undo_clicked()
             tick_for_calls--;
         }
         if(tick_for_calls>=0){
+            equal_cicked=false;
             while(operators_count.size()>0){
                 operators_count.erase(operators_count.begin()+operators_count.size()-1);
         }
