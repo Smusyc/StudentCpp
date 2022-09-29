@@ -1,0 +1,13 @@
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.exe
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.deps.json
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.runtimeconfig.json
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.runtimeconfig.dev.json
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.dll
+C:\Users\yacov\source\repos\pets\bin\Debug\netcoreapp3.1\pets.pdb
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.AssemblyInfoInputs.cache
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.AssemblyInfo.cs
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.dll
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.pdb
+C:\Users\yacov\source\repos\pets\obj\Debug\netcoreapp3.1\pets.genruntimeconfig.cache

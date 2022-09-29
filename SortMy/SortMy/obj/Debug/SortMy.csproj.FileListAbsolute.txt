@@ -1,0 +1,7 @@
+C:\Users\yacov\source\repos\SortMy\SortMy\bin\Debug\SortMy.exe.config
+C:\Users\yacov\source\repos\SortMy\SortMy\bin\Debug\SortMy.exe
+C:\Users\yacov\source\repos\SortMy\SortMy\bin\Debug\SortMy.pdb
+C:\Users\yacov\source\repos\SortMy\SortMy\obj\Debug\SortMy.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\SortMy\SortMy\obj\Debug\SortMy.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\SortMy\SortMy\obj\Debug\SortMy.exe
+C:\Users\yacov\source\repos\SortMy\SortMy\obj\Debug\SortMy.pdb

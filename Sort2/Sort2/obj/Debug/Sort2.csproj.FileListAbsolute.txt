@@ -1,0 +1,7 @@
+C:\Users\yacov\source\repos\Sort2\Sort2\bin\Debug\Sort2.exe.config
+C:\Users\yacov\source\repos\Sort2\Sort2\bin\Debug\Sort2.exe
+C:\Users\yacov\source\repos\Sort2\Sort2\bin\Debug\Sort2.pdb
+C:\Users\yacov\source\repos\Sort2\Sort2\obj\Debug\Sort2.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\Sort2\Sort2\obj\Debug\Sort2.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\Sort2\Sort2\obj\Debug\Sort2.exe
+C:\Users\yacov\source\repos\Sort2\Sort2\obj\Debug\Sort2.pdb

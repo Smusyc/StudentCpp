@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPLfYAcvro/T1jUIXc9edxC/R2aGTKr16pjTapBt4+0j1Tg3DHP07/J8ElwDUDv7RQ3JCHwJXzCqJUcZqrfEnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yacov\\source\\repos\\Lab4PE\\Lab4PE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yacov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

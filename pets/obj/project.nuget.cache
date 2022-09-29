@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWQEr2adlnYUz4RWgjWzMYR+FDnunxmOMFQiMjqOQq1NNkiLfAa8nooYRvD6uFEPBQhCohcL0z4kCnDQ4YtTQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yacov\\source\\repos\\pets\\pets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yacov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

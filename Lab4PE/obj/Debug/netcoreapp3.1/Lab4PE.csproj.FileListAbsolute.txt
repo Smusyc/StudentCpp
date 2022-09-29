@@ -1,0 +1,13 @@
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.exe
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.deps.json
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.runtimeconfig.json
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.runtimeconfig.dev.json
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.dll
+C:\Users\yacov\source\repos\Lab4PE\bin\Debug\netcoreapp3.1\Lab4PE.pdb
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.AssemblyInfoInputs.cache
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.AssemblyInfo.cs
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.dll
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.pdb
+C:\Users\yacov\source\repos\Lab4PE\obj\Debug\netcoreapp3.1\Lab4PE.genruntimeconfig.cache
