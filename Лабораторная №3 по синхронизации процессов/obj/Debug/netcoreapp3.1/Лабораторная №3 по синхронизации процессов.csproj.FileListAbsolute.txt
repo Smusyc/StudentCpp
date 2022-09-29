@@ -1,0 +1,13 @@
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.AssemblyInfoInputs.cache
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.AssemblyInfo.cs
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.exe
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.deps.json
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.runtimeconfig.json
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.runtimeconfig.dev.json
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.dll
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\bin\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.pdb
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.dll
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.pdb
+C:\Users\yacov\source\repos\Лабораторная №3 по синхронизации процессов\obj\Debug\netcoreapp3.1\Лабораторная №3 по синхронизации процессов.genruntimeconfig.cache

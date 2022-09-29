@@ -1,0 +1,11 @@
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\bin\Debug\Диспетчер процессов.exe.config
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\bin\Debug\Диспетчер процессов.exe
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\bin\Debug\Диспетчер процессов.pdb
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер процессов.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер_процессов.Form1.resources
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер_процессов.Form2.resources
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер_процессов.Properties.Resources.resources
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер процессов.csproj.GenerateResource.cache
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер процессов.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер процессов.exe
+C:\Users\yacov\source\repos\Диспетчер процессов\Диспетчер процессов\obj\Debug\Диспетчер процессов.pdb
