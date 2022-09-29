@@ -1,0 +1,17 @@
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\TDD.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\TDD.pdb
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yacov\source\repos\TDD\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yacov\source\repos\TDD\obj\Debug\TDD.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\TDD\obj\Debug\TDD.csproj.CopyComplete
+C:\Users\yacov\source\repos\TDD\obj\Debug\TDD.dll
+C:\Users\yacov\source\repos\TDD\obj\Debug\TDD.pdb
