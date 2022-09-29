@@ -1,0 +1,3 @@
+C:\Users\yacov\source\repos\Lab_Bel_2\Lab_Bel_2\obj\Debug\Lab_Bel_2.csprojAssemblyReference.cache
+C:\Users\yacov\source\repos\Lab_Bel_2\Lab_Bel_2\obj\Debug\Lab_Bel_2.csproj.CoreCompileInputs.cache
+C:\Users\yacov\source\repos\Lab_Bel_2\Lab_Bel_2\obj\Debug\Lab_Bel_2.exe.config
