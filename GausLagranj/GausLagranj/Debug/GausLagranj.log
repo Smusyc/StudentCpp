@@ -1,0 +1,8 @@
+﻿  GausLagranj.cpp
+c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(415): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+  c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(415): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(501): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+  c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(501): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(504): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+  c:\users\yacov\source\repos\gauslagranj\gauslagranj\gauslagranj.cpp(504): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  GausLagranj.vcxproj -> C:\Users\yacov\source\repos\GausLagranj\Debug\GausLagranj.exe
